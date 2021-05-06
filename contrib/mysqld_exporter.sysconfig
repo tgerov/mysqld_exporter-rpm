@@ -1,0 +1,1 @@
+OPTIONS="--config.my-cnf /etc/mysqld_exporter/my.cnf --web.listen-address=0.0.0.0:9104"
